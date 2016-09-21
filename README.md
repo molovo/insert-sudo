@@ -1,6 +1,6 @@
 # Insert Sudo
 
-A little zsh snippet to prepend zulu to the current command when pressing `CRTL+X``CTRL+S`
+A little zsh snippet to prepend sudo to the current command when pressing `CRTL+X``CTRL+S`
 
 ## Installation
 
